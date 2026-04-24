@@ -1,6 +1,7 @@
 # 🌍 Drivers of Life Expectancy Dashboard
 
-> **What truly helps people live longer — wealth, education, or healthcare?**  
+> **What truly helps people live longer — wealth, education, or healthcare?**
+
 Explore this interactive dashboard and uncover how key development indicators shape life expectancy across different countries and years.
 
 ---
