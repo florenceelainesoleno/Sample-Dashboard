@@ -3,6 +3,3 @@ pandas
 numpy
 plotly
 Pillow
-openpyxl
-statsmodels
-watchdog==6.0.0
