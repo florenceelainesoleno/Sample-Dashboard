@@ -68,6 +68,10 @@ Includes supported findings from economic and public health literature.
 | Pillow | Image Support |
 
 ---
+## You can access the deployed Streamlit application here:
+https://sample-dashboard-uhy7a3sl5qmwbghzhckmep.streamlit.app/
+
+---
 
 ## 📂 Project Structure
 
